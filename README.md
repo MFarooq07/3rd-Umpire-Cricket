@@ -1,6 +1,6 @@
 # 3rd Umpire Cricket
 
-<img src="umpire.jpeg" width=800>
+<img src="umpire.jpeg" width=400>
 
 Tired of resolving street cricket disputes over each and every decision doubting that the umpire is biased towards either of the teams? Then you are just in the right place!!!
 
